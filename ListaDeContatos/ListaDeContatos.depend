@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1702253129 source:c:\users\dkriz\desktop\atividades_estruturadedados\atividade25\listadecontatos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listCont.h"
+
+1702250092 c:\users\dkriz\desktop\atividades_estruturadedados\atividade25\listadecontatos\listcont.h
+
+1702250638 source:c:\users\dkriz\desktop\atividades_estruturadedados\atividade25\listadecontatos\listcont.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listCont.h"
+
+1702339023 source:c:\users\urdia\documents\listadecontatos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listCont.h"
+
+1702337630 c:\users\urdia\documents\listadecontatos\listcont.h
+
+1702338993 source:c:\users\urdia\documents\listadecontatos\listcont.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listCont.h"
+
+1702344099 source:c:\users\dkriz\desktop\estruturadedados\listadecontatos\listcont.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listCont.h"
+
+1702344099 c:\users\dkriz\desktop\estruturadedados\listadecontatos\listcont.h
+
+1702344099 source:c:\users\dkriz\desktop\estruturadedados\listadecontatos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listCont.h"
+

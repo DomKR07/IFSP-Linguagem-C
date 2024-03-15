@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695847337 source:c:\users\dkriz\desktop\atividades_estruturadedados\atividade24\atividade24\main.c
+	<stdio.h>
+	<stdlib.h>
+	"PTcart.h"
+
+1695847136 c:\users\dkriz\desktop\atividades_estruturadedados\atividade24\atividade24\ptcart.h
+

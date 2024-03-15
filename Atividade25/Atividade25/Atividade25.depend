@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1695848718 source:c:\users\dkriz\desktop\atividades_estruturadedados\atividade25\atividade25\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"Calculadora.h"
+
+1695848739 c:\users\dkriz\desktop\atividades_estruturadedados\atividade25\atividade25\calculadora.h
+
+1695848688 source:c:\users\dkriz\desktop\atividades_estruturadedados\atividade25\atividade25\main.c
+	<stdio.h>
+	"Calculadora.h"
+
