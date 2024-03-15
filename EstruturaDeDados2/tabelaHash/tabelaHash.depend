@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1710208968 source:c:\users\dkriz\desktop\estruturadedados2\tabelahash\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hashTable.h"
+
+1710211426 c:\users\dkriz\desktop\estruturadedados2\tabelahash\hashtable.h
+
+1710211409 source:c:\users\dkriz\desktop\estruturadedados2\tabelahash\hashtable.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hashTable.h"
+
